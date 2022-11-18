@@ -1,4 +1,4 @@
-import 'package:clean_code/presentation/theme_manager.dart';
+import 'package:clean_code/presentation/resources/theme_manager.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatefulWidget {
